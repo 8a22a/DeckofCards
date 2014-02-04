@@ -1,0 +1,35 @@
+{
+    "versionLabel": "2.0",
+    "uuid": "780eefe1-3b61-448b-84f0-66747a5a5aeb",
+    "appKeys": {},
+    "longName": "Deck of Cards",
+    "versionCode": 2,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Deck of Cards",
+    "companyName": "8a22a",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/menu_icon.png"
+            },
+            {
+                "type": "font",
+                "name": "FONT_CARD_CHARS_34",
+                "file": "fonts/cardchars.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_CARD_CHARS_18",
+                "file": "fonts/cardchars.ttf"
+            }
+        ]
+    }
+}
